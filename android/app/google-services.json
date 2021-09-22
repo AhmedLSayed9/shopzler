@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953455376422",
+    "project_id": "shopzler-4e36f",
+    "storage_bucket": "shopzler-4e36f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953455376422:android:7eb04f41890f475fa2cee7",
+        "android_client_info": {
+          "package_name": "com.appzler.shopzler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953455376422-ko2u4j7nvp7juksa5d5hrpnphqrvvlsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLroIeH0i8G_kLTmbXSLaWPX92-l6W5Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953455376422-ko2u4j7nvp7juksa5d5hrpnphqrvvlsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

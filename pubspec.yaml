@@ -1,0 +1,53 @@
+name: shopzler
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get: ^4.3.6
+  flutter_screenutil: ^5.0.0+2
+  firebase_core: ^1.6.0
+  firebase_auth: ^3.1.1
+  google_sign_in: ^5.1.0
+  flutter_facebook_auth: ^3.5.0+1
+  cloud_firestore: ^2.5.3
+  shared_preferences: ^2.0.6
+  sqflite: ^2.0.0+4
+  path: ^1.8.0
+  image_picker: ^0.8.4+2
+  firebase_storage: ^10.0.3
+  intl: ^0.17.0
+  connectivity: ^3.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_native_splash: ^1.2.3
+  flutter_launcher_icons: ^0.9.2
+
+flutter_native_splash:
+  color: "#accceb"
+  image: assets/splash.png
+  android12: true
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/icons/
+    - assets/images/icons/menu_icons/
+  fonts:
+    - family: SourceSansPro
+      fonts:
+        - asset: assets/fonts/SourceSansPro-Regular.ttf
