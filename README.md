@@ -2,7 +2,7 @@
 
 A new open source E-commerce App created using Flutter and GetX.
 
-<img src="https://im7.ezgif.com/tmp/ezgif-7-5a973b257c43.gif">
+<img src="https://imgur.com/WIahqtW.gif">
 
 ## ScreenShots
 
