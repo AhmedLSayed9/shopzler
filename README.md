@@ -10,6 +10,8 @@ A new open source E-commerce App created using Flutter and GetX.
     <img src="https://user-images.githubusercontent.com/70890146/134294381-389c3eb9-9d3b-4f31-b45d-d0577649401c.jpg" alt="Image" width="300"/>
     <img src="https://user-images.githubusercontent.com/70890146/134295762-e32997ef-ba57-4384-8f55-9ab5d7297c22.jpg" alt="Image" width="300"/>
     <img src="https://user-images.githubusercontent.com/70890146/134296666-b37ae0b9-507c-4552-a50f-a43b3d2f16f0.jpg" alt="Image" width="300"/>
+    <img src="https://user-images.githubusercontent.com/70890146/134517685-c2af44b2-ec5b-4c43-9c5f-30486a6718ff.jpg" alt="Image" width="300"/>
+    <img src="https://user-images.githubusercontent.com/70890146/134517658-465c3d08-8ad1-4dd4-a03a-ae08478c716d.jpg" alt="Image" width="300"/>
     <img src="https://user-images.githubusercontent.com/70890146/134296116-d7097926-9fb6-4d61-a9d5-10213f9add36.jpg" alt="Image" width="300"/>
     <img src="https://user-images.githubusercontent.com/70890146/134296958-57258c0c-9df1-445c-ba71-4fcc586095f5.jpg" alt="Image" width="300"/>
     <img src="https://user-images.githubusercontent.com/70890146/134297033-344e49d1-e199-4af6-b95c-4857018ccedd.jpg" alt="Image" width="300"/>
