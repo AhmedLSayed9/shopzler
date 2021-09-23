@@ -1,6 +1,6 @@
 # Shopzler
 
-A new open source E-commerce App project created using Flutter and GetX.
+A new open source E-commerce App created using Flutter and GetX.
 
 <img src="https://im7.ezgif.com/tmp/ezgif-7-5a973b257c43.gif">
 
@@ -30,3 +30,5 @@ A new open source E-commerce App project created using Flutter and GetX.
 - Using Firebase & SQLite.
 - Using GetX as state management.
 - Using MVVM architecture and clean code.
+
+Give a ⭐️ if you like the project.. Thanks!
